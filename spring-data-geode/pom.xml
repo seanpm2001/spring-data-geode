@@ -29,7 +29,7 @@
 		<geode.version>[1.15.0,1.16.0)</geode.version>
 -->
 		<multithreadedtc.version>1.01</multithreadedtc.version>
-		<snappy.version>0.4</snappy.version>
+		<snappy.version>0.5</snappy.version>
 		<spring-data-commons.version>3.0.0-SNAPSHOT</spring-data-commons.version>
 		<spring-test-data-geode.version>1.0.0-M5</spring-test-data-geode.version>
 		<spring-shell.version>1.2.0.RELEASE</spring-shell.version>
